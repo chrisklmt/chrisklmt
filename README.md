@@ -9,30 +9,10 @@ I enjoy building clean, functional applications and working with modern backend 
 
 ## 🛠 Tech Stack
 
-### 💻 Programming Languages
-- Python  
-- Java  
-- JavaScript  
-- C  
-- Kotlin (Gradle)  
-- SQL  
-
-### ⚙️ Frameworks & Platforms
-- Node.js  
-- Spring Boot  
-
-### 🗄 Databases
-- MySQL  
-- PostgreSQL  
-
-### 🧰 Tools & DevOps
-- Git  
-- Docker  
-- Jenkins  
-- Azure  
-- Linux  
-- VS Code  
-- IntelliJ IDEA (JetBrains)
+**Languages:** Python, Java, JavaScript, C, Kotlin (Gradle), SQL  
+**Frameworks & Platforms:** Node.js, Spring Boot  
+**Databases:** MySQL, PostgreSQL  
+**Tools & DevOps:** Git, Docker, Jenkins, Azure, Linux, VS Code, IntelliJ IDEA
 
 ---
 
