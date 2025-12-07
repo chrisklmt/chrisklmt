@@ -19,9 +19,9 @@ I enjoy building clean, functional applications and working with modern backend 
 ## 📌 Featured Projects
 _(Pinned on my profile)_
 
-- **Aurora** – Undergraduate thesis on secure decentralized mobile messaging systems.  
-- **DevOps** – University DevOps project with full CI/CD pipeline and containerized deployment.  
-- **DSProject** – Fully functional web platform used as the base application for the DevOps project.
+- **Aurora** - Undergraduate thesis on secure decentralized mobile messaging systems.  
+- **DevOps** - University DevOps project with full CI/CD pipeline and containerized deployment.  
+- **DSProject** - Fully functional web platform used as the base application for the DevOps project.
 
 ---
 
